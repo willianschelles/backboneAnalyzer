@@ -1,0 +1,11 @@
+Sáb Out 28 19:22:38 BRST 2017
+traceroute to www.pop-ro.rnp.br (200.129.139.153), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  92.376 ms  96.383 ms  97.030 ms
+ 2  10.10.128.1 (10.10.128.1)  126.942 ms  129.100 ms  129.537 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  133.950 ms  133.571 ms  133.214 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  132.526 ms  135.994 ms  136.500 ms
+ 5  ms-pr-oi.bkb.rnp.br (200.143.252.98)  150.130 ms  150.684 ms  149.303 ms
+ 6  mt-ms-oi.bkb.rnp.br (200.143.252.101)  166.637 ms  44.389 ms  44.909 ms
+ 7  ro-mt-oi.bkb.rnp.br (200.143.252.161)  66.856 ms  68.049 ms  67.885 ms
+ 8  lanro-ro.bkb.rnp.br (200.143.255.250)  73.679 ms  72.294 ms  73.003 ms
+ 9  webserver.pop-ro.rnp.br (200.129.139.153)  71.363 ms  60.191 ms  61.115 ms

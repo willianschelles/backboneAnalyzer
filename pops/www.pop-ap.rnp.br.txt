@@ -1,0 +1,14 @@
+Sáb Out 28 19:21:35 BRST 2017
+traceroute to www.pop-ap.rnp.br (200.129.167.35), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  11.119 ms  11.086 ms  11.126 ms
+ 2  10.10.128.1 (10.10.128.1)  27.668 ms  27.682 ms  27.661 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  86.194 ms  86.196 ms  38.932 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  38.900 ms  38.877 ms  38.883 ms
+ 5  ms-pr-oi.bkb.rnp.br (200.143.252.98)  55.111 ms  55.124 ms  55.118 ms
+ 6  mt-ms-oi.bkb.rnp.br (200.143.252.101)  62.394 ms  221.681 ms  221.616 ms
+ 7  go-mt-oi.bkb.rnp.br (200.143.252.106)  238.886 ms  55.338 ms  60.778 ms
+ 8  to-go-oi.bkb.rnp.br (200.143.252.169)  77.960 ms  74.364 ms  77.135 ms
+ 9  pa-to.bkb.rnp.br (200.143.253.49)  98.085 ms  98.640 ms  95.070 ms
+10  ap-pa-comp.bkb.rnp.br (200.143.252.2)  112.723 ms  113.358 ms  117.255 ms
+11  lanap-ap.bkb.rnp.br (200.143.253.122)  102.876 ms  102.865 ms  107.636 ms
+12  virgo.pop-ap.rnp.br (200.129.167.35)  106.609 ms  101.374 ms  107.754 ms

@@ -1,0 +1,10 @@
+Sáb Out 28 19:22:05 BRST 2017
+traceroute to www.pop-mt.rnp.br (200.129.240.1), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  1.403 ms  2.645 ms *
+ 2  10.10.128.1 (10.10.128.1)  19.243 ms  22.579 ms  23.904 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  34.835 ms  23.901 ms  24.554 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  26.733 ms  27.334 ms  27.896 ms
+ 5  ms-pr-oi.bkb.rnp.br (200.143.252.98)  48.043 ms  47.461 ms  52.158 ms
+ 6  mt-ms-oi.bkb.rnp.br (200.143.252.101)  62.049 ms  38.620 ms  44.108 ms
+ 7  lanmt-mt.bkb.rnp.br (200.143.255.226)  45.021 ms  46.767 ms  54.601 ms
+ 8  rondon.pop-mt.rnp.br (200.129.240.1)  52.364 ms  50.279 ms  51.798 ms

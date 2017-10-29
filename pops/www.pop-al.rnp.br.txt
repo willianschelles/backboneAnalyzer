@@ -1,0 +1,16 @@
+Sáb Out 28 19:21:28 BRST 2017
+traceroute to www.pop-al.rnp.br (200.17.116.100), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  1.223 ms  2.487 ms *
+ 2  10.10.128.1 (10.10.128.1)  15.241 ms  20.526 ms  21.690 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  23.022 ms  24.139 ms  23.500 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  22.395 ms  27.606 ms  28.214 ms
+ 5  ms-pr-oi.bkb.rnp.br (200.143.252.98)  46.640 ms  45.626 ms  47.819 ms
+ 6  mt-ms-oi.bkb.rnp.br (200.143.252.101)  67.219 ms  39.894 ms  71.386 ms
+ 7  go-mt-oi.bkb.rnp.br (200.143.252.106)  71.397 ms  72.241 ms  71.363 ms
+ 8  df-go-oi.bkb.rnp.br (200.143.252.110)  81.239 ms  81.856 ms  82.393 ms
+ 9  ce-df-tlbrs.bkb.rnp.br (200.143.253.82)  111.336 ms  110.141 ms  110.896 ms
+10  pe-ce-tlbrs.bkb.rnp.br (200.143.253.106)  114.524 ms  116.025 ms  112.695 ms
+11  al-pe-oi.bkb.rnp.br (200.143.252.122)  104.860 ms  103.206 ms  108.179 ms
+12  lanal-al.bkb.rnp.br (200.143.255.190)  114.458 ms  113.649 ms  115.218 ms
+13  www.pop-al.rnp.br (200.17.116.100)  108.165 ms  111.609 ms  112.617 ms
+14  www.pop-al.rnp.br (200.17.116.100)  105.803 ms  110.788 ms  111.321 ms

@@ -1,0 +1,13 @@
+Sáb Out 28 19:21:46 BRST 2017
+traceroute to www.pop-ce.rnp.br (200.129.0.42), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  4.040 ms  5.516 ms  6.537 ms
+ 2  10.10.128.1 (10.10.128.1)  20.075 ms  22.902 ms  22.269 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  23.959 ms  25.129 ms  23.442 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  26.857 ms  28.422 ms  27.841 ms
+ 5  ms-pr-oi.bkb.rnp.br (200.143.252.98)  47.664 ms  46.764 ms  52.236 ms
+ 6  mt-ms-oi.bkb.rnp.br (200.143.252.101)  64.196 ms  40.868 ms  45.927 ms
+ 7  go-mt-oi.bkb.rnp.br (200.143.252.106)  61.753 ms  54.631 ms  59.085 ms
+ 8  df-go-oi.bkb.rnp.br (200.143.252.110)  63.937 ms  70.771 ms  63.083 ms
+ 9  ce-df-tlbrs.bkb.rnp.br (200.143.253.82)  96.892 ms  87.400 ms  94.903 ms
+10  lance-ce.bkb.rnp.br (200.143.255.206)  99.012 ms  98.360 ms  94.185 ms
+11  www.pop-ce.rnp.br (200.129.0.42)  108.008 ms  87.559 ms  94.246 ms

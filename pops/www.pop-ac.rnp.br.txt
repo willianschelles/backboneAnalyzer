@@ -1,0 +1,12 @@
+Sáb Out 28 19:21:27 BRST 2017
+traceroute to www.pop-ac.rnp.br (200.139.7.180), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  1.337 ms  4.039 ms  6.337 ms
+ 2  10.10.128.1 (10.10.128.1)  1640.513 ms  1641.171 ms  1641.178 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  25.612 ms  34.583 ms  33.946 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  24.665 ms  29.660 ms  30.183 ms
+ 5  ms-pr-oi.bkb.rnp.br (200.143.252.98)  51.787 ms  53.210 ms  52.484 ms
+ 6  mt-ms-oi.bkb.rnp.br (200.143.252.101)  58.379 ms  177.924 ms  177.875 ms
+ 7  ro-mt-oi.bkb.rnp.br (200.143.252.161)  1602.858 ms  1602.833 ms  1602.755 ms
+ 8  ac-ro-oi.bkb.rnp.br (200.143.252.166)  1602.787 ms  1602.761 ms  1602.743 ms
+ 9  lanac-ac.bkb.rnp.br (200.143.255.254)  1602.743 ms  1588.379 ms  1587.671 ms
+10  www.pop-ac.rnp.br.7.139.200.in-addr.arpa (200.139.7.180)  1586.964 ms  1581.839 ms  1425.693 ms

@@ -1,0 +1,14 @@
+Sáb Out 28 19:22:10 BRST 2017
+traceroute to www.pop-pa.rnp.br (200.129.132.98), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  1.172 ms  3.791 ms  5.642 ms
+ 2  10.10.128.1 (10.10.128.1)  22.447 ms  23.221 ms  24.821 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  24.823 ms  25.739 ms  27.476 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  29.006 ms  30.099 ms  30.088 ms
+ 5  ms-pr-oi.bkb.rnp.br (200.143.252.98)  48.260 ms  47.125 ms  52.607 ms
+ 6  mt-ms-oi.bkb.rnp.br (200.143.252.101)  62.065 ms  40.770 ms  46.695 ms
+ 7  go-mt-oi.bkb.rnp.br (200.143.252.106)  69.747 ms  62.636 ms  63.771 ms
+ 8  to-go-oi.bkb.rnp.br (200.143.252.169)  75.585 ms  69.245 ms  74.224 ms
+ 9  pa-to.bkb.rnp.br (200.143.253.49)  89.944 ms  84.729 ms  91.208 ms
+10  lanpa2-pa.bkb.rnp.br (200.143.255.214)  110.911 ms  110.351 ms  84.674 ms
+11  fw1.pop-pa.rnp.br (200.129.132.8)  90.668 ms  97.297 ms  101.915 ms
+12  server1.pop-pa.rnp.br (200.129.132.98)  102.714 ms  84.447 ms  90.345 ms

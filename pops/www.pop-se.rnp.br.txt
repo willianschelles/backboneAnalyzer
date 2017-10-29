@@ -1,0 +1,13 @@
+Sáb Out 28 19:22:50 BRST 2017
+traceroute to www.pop-se.rnp.br (200.17.118.9), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  32.717 ms  34.186 ms *
+ 2  10.10.128.1 (10.10.128.1)  56.180 ms  63.086 ms  63.664 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  68.461 ms  66.764 ms  66.213 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  64.073 ms  65.497 ms  64.642 ms
+ 5  sp2-pr-oi.bkb.rnp.br (200.143.252.61)  71.661 ms  76.116 ms  76.671 ms
+ 6  rj-sp2-oi.bkb.rnp.br (200.143.253.222)  87.927 ms  39.409 ms  40.359 ms
+ 7  es-rj-oi.bkb.rnp.br (200.143.252.86)  44.800 ms  45.254 ms  48.566 ms
+ 8  200.143.253.205 (200.143.253.205)  60.947 ms  61.303 ms ba-es-oi.bkb.rnp.br (200.143.252.94)  62.372 ms
+ 9  se-ba-oi.bkb.rnp.br (200.143.252.113)  72.075 ms  70.609 ms  70.379 ms
+10  lanse-se.bkb.rnp.br (200.143.255.186)  68.787 ms  65.631 ms  66.667 ms
+11  rivendell.pop-se.rnp.br (200.17.118.9)  60.639 ms  52.958 ms  61.990 ms

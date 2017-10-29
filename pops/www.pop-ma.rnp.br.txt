@@ -1,0 +1,16 @@
+Sáb Out 28 19:21:59 BRST 2017
+traceroute to www.pop-ma.rnp.br (200.137.129.135), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  1.267 ms  2.428 ms  5.192 ms
+ 2  10.10.128.1 (10.10.128.1)  23.422 ms  29.603 ms  30.523 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  34.007 ms  33.345 ms  34.418 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  31.596 ms  30.991 ms  32.022 ms
+ 5  ms-pr-oi.bkb.rnp.br (200.143.252.98)  50.991 ms  50.368 ms  51.562 ms
+ 6  mt-ms-oi.bkb.rnp.br (200.143.252.101)  61.412 ms  39.710 ms  44.419 ms
+ 7  go-mt-oi.bkb.rnp.br (200.143.252.106)  60.372 ms  67.325 ms  68.071 ms
+ 8  df-go-oi.bkb.rnp.br (200.143.252.110)  67.180 ms  67.131 ms  67.295 ms
+ 9  ce-df-tlbrs.bkb.rnp.br (200.143.253.82)  93.566 ms  99.067 ms  87.108 ms
+10  ce2-ce.bkb.rnp.br (200.143.253.150)  98.455 ms  104.091 ms  88.675 ms
+11  ma-ce2-oi.bkb.rnp.br (200.143.252.145)  108.281 ms  101.620 ms  106.947 ms
+12  lanma-ma.bkb.rnp.br (200.143.255.210)  107.565 ms  102.441 ms  111.522 ms
+13  coruja.pop-ma.rnp.br (200.137.129.60)  109.897 ms  107.857 ms  109.066 ms
+14  pipira.pop-ma.rnp.br (200.137.129.135)  102.549 ms  101.479 ms  107.256 ms

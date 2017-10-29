@@ -1,0 +1,14 @@
+Sáb Out 28 19:22:25 BRST 2017
+traceroute to www.pop-pi.rnp.br (200.137.160.191), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  2.610 ms  5.539 ms  6.038 ms
+ 2  10.10.128.1 (10.10.128.1)  18.804 ms  22.387 ms  22.977 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  24.069 ms  23.569 ms  24.586 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  29.037 ms  27.821 ms  28.435 ms
+ 5  ms-pr-oi.bkb.rnp.br (200.143.252.98)  46.616 ms  53.111 ms  54.739 ms
+ 6  mt-ms-oi.bkb.rnp.br (200.143.252.101)  62.243 ms  41.011 ms  44.844 ms
+ 7  go-mt-oi.bkb.rnp.br (200.143.252.106)  59.453 ms  54.607 ms  59.908 ms
+ 8  to-go-oi.bkb.rnp.br (200.143.252.169)  74.684 ms  75.424 ms  73.721 ms
+ 9  pa-to.bkb.rnp.br (200.143.253.49)  95.755 ms  100.270 ms  96.651 ms
+10  pi-pa-oi.bkb.rnp.br (200.143.252.153)  101.248 ms  243.805 ms  243.712 ms
+11  lanpi-pi.bkb.rnp.br (200.143.255.218)  1602.529 ms  1579.853 ms  1579.946 ms
+12  www.pop-pi.rnp.br (200.137.160.191)  1579.843 ms  1561.606 ms  1561.560 ms

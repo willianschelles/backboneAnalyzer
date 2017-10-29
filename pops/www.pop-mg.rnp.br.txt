@@ -1,0 +1,11 @@
+Sáb Out 28 19:22:00 BRST 2017
+traceroute to www.pop-mg.rnp.br (200.131.1.75), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  2.278 ms * *
+ 2  10.10.128.1 (10.10.128.1)  292.703 ms  292.700 ms  292.693 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  292.688 ms  1699.846 ms  1699.853 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  292.662 ms  1699.731 ms  1699.691 ms
+ 5  sp2-pr-oi.bkb.rnp.br (200.143.252.61)  1699.717 ms  1699.717 ms  1699.715 ms
+ 6  mg-sp2-oi.bkb.rnp.br (200.143.252.74)  1699.745 ms  108.789 ms  115.768 ms
+ 7  lanmg-mg.bkb.rnp.br (200.143.253.162)  115.057 ms  119.604 ms  120.821 ms
+ 8  tutu.pop-mg.rnp.br (200.131.0.4)  122.529 ms  121.968 ms  121.386 ms
+ 9  newdrum.pop-mg.rnp.br (200.131.1.75)  129.115 ms  125.504 ms  128.471 ms

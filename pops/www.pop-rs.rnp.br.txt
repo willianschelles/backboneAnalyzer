@@ -1,0 +1,10 @@
+Sáb Out 28 19:22:48 BRST 2017
+traceroute to www.pop-rs.rnp.br (200.132.0.134), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  188.729 ms  188.741 ms  188.737 ms
+ 2  10.10.128.1 (10.10.128.1)  217.132 ms  217.142 ms  217.122 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  217.115 ms  217.108 ms  217.115 ms
+ 4  as1916.pr.ix.br (200.219.140.5)  217.081 ms  217.067 ms  217.057 ms
+ 5  rs2-pr-oi.bkb.rnp.br (200.143.252.53)  217.920 ms  217.280 ms  223.334 ms
+ 6  lanrs-rs2.bkb.rnp.br (200.143.253.194)  223.343 ms  27.526 ms  31.798 ms
+ 7  fw.pop-rs.rnp.br (200.132.0.10)  32.751 ms  45.370 ms  48.532 ms
+ 8  webserver.pop-rs.rnp.br (200.132.0.134)  49.866 ms  29.669 ms  32.877 ms

@@ -1,0 +1,8 @@
+Sáb Out 28 19:22:28 BRST 2017
+traceroute to www.pop-pr.rnp.br (200.238.130.8), 30 hops max, 60 byte packets
+ 1  192.168.0.1 (192.168.0.1)  2.978 ms  18.197 ms  20.757 ms
+ 2  10.10.128.1 (10.10.128.1)  36.099 ms  39.911 ms  39.204 ms
+ 3  bd040072.virtua.com.br (189.4.0.114)  40.482 ms  40.843 ms  58.528 ms
+ 4  as10881.pr.ix.br (200.219.140.4)  63.645 ms  62.079 ms  63.047 ms
+ 5  p55-v104-curitiba-lapa.pop-pr.rnp.br (200.238.139.14)  58.508 ms  58.491 ms  58.507 ms
+ 6  synapse.pop-pr.rnp.br (200.238.130.8)  58.503 ms  22.925 ms  23.152 ms
